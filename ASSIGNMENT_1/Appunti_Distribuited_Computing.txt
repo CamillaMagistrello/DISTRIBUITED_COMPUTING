@@ -1,0 +1,28 @@
+E' uno scheduler (protocollo di gestione delle code) che smista su più code (ogni coda ha un server) i lavori.
+
+esempio: negozi con ticket tipo il macellaio. Michele puzza.
+esempio: stand lucca comics and games 2023
+
+lambda è la frequenza media con cui i jobs entrano nella coda (waiting area).
+mu invece quelli che escono dalla coda, levano i coglioni dal server.
+dt è il tempo. (slide 6 pag.3)
+
+la probabilità che un job entra nella coda è indipendente da quello che è successo prima, i job sono memory-less.
+
+n: numero di server.
+d: sottoinsieme di più server dove vengono assegnate le code più corte (per non saturarle).
+
+round-robin: scheduler che da tot tempo a un job, se non finisce cazzi suoi, lo leva e da tempo a un altro.
+
+LABORATORIO ------------
+discrete_event_sim.py: file di libreria
+sir.py: esempio di simulazione funzionante e completa
+mmn_queue.py: simulazione da completare
+
+Il job i arrivano e finiscono al tempo t.
+
+Completion aggiunge il prossimo job al server (se ce ne sono nella coda e setta quell'id come isRunning altrimenti isRunning = none).
+
+
+
+

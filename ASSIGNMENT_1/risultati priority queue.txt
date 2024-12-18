@@ -1,0 +1,48 @@
+LAMBDA  0.5  MU  1  N  100  D  1
+Average time spent in the system: 1.8221227802325075
+Theoretical expectation for random server choice: 2.0
+LAMBDA  0.9  MU  1  N  100  D  1
+Average time spent in the system: 4.546667468721231
+Theoretical expectation for random server choice: 10.000000000000002
+LAMBDA  0.95  MU  1  N  100  D  1
+Average time spent in the system: 5.444834285525192
+Theoretical expectation for random server choice: 19.999999999999982
+LAMBDA  0.99  MU  1  N  100  D  1
+Average time spent in the system: 5.761734708868114
+Theoretical expectation for random server choice: 99.99999999999991
+LAMBDA  0.5  MU  1  N  100  D  2
+Average time spent in the system: 1.272681058709308
+Theoretical expectation for random server choice: 2.0
+LAMBDA  0.9  MU  1  N  100  D  2
+Average time spent in the system: 2.593197808228961
+Theoretical expectation for random server choice: 10.000000000000002
+LAMBDA  0.95  MU  1  N  100  D  2
+Average time spent in the system: 3.472068314399358
+Theoretical expectation for random server choice: 19.999999999999982
+LAMBDA  0.99  MU  1  N  100  D  2
+Average time spent in the system: 5.061087332759245
+Theoretical expectation for random server choice: 99.99999999999991
+LAMBDA  0.5  MU  1  N  100  D  5
+Average time spent in the system: 1.0326301996960618
+Theoretical expectation for random server choice: 2.0
+LAMBDA  0.9  MU  1  N  100  D  5
+Average time spent in the system: 1.6876056241838338
+Theoretical expectation for random server choice: 10.000000000000002
+LAMBDA  0.95  MU  1  N  100  D  5
+Average time spent in the system: 2.161856512962556
+Theoretical expectation for random server choice: 19.999999999999982
+LAMBDA  0.99  MU  1  N  100  D  5
+Average time spent in the system: 3.2661731268782686
+Theoretical expectation for random server choice: 99.99999999999991
+LAMBDA  0.5  MU  1  N  100  D  10
+Average time spent in the system: 1.007386379348192
+Theoretical expectation for random server choice: 2.0
+LAMBDA  0.9  MU  1  N  100  D  10
+Average time spent in the system: 1.4268552584917649
+Theoretical expectation for random server choice: 10.000000000000002
+LAMBDA  0.95  MU  1  N  100  D  10
+Average time spent in the system: 1.650938424927781
+Theoretical expectation for random server choice: 19.999999999999982
+LAMBDA  0.99  MU  1  N  100  D  10
+Average time spent in the system: 2.282664500007851
+Theoretical expectation for random server choice: 99.99999999999991
